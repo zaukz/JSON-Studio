@@ -1,7 +1,7 @@
 {
   "name": "JSON Studio",
   "short_name": "JSON Studio",
-  "description": "A focused, local-first JSON workspace for editing, inspecting, comparing and converting JSON.",
+  "description": "A modern, browser-based JSON editor and toolkit with formatting, validation, tree visualization, structural comparison, and format conversion. (Fully processed client-side)",
   "id": "./",
   "start_url": "./",
   "scope": "./",
